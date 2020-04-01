@@ -2,6 +2,7 @@
 
 > A practice project by Aleksanteri Haka.
 > A very simple simulation of a stock trading game.
+In the project I was practicing state mutations and creating server Get ans send calls by creating a very simple online save system in to the games own online database.
 
 ## Build Setup
 
