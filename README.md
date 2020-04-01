@@ -1,6 +1,7 @@
-# vue-cli
+# Stock Trader v. 0.5
 
-> A Vue.js project
+> A practice project by Aleksanteri Haka.
+> A very simple simulation of a stock trading game.
 
 ## Build Setup
 
